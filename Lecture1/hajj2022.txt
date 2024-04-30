@@ -1,0 +1,60 @@
+    Afghanistan – 13,582
+    Algeria – 18,697
+    Australia – 2,090
+    Bahrain – 2,094
+    Bangladesh – 57,585
+    Belgium – 1,499
+    Cameroon – 4,527
+    Canada – 1951
+    Chad – 3,997
+    China – 9,190
+    Egypt – 35,375
+    Ethiopia – 19,619
+    France – 9,268
+    Germany – 4,125
+    Guinea – 4,527
+    India – 79,237
+    Indonesia – 100,051
+    Iran – 38,481
+    Iraq – 15,252
+    Italy – 1,351
+    Jordan – 3,622
+    Kazakhstan – 4,527
+    Kenya – 4,527
+    Kuwait – 3,622
+    Lebanon – 2,716
+    Malaysia – 14,306
+    Mali – 6,032
+    Morocco – 15,392
+    Myanmar – 2,173
+    Nepal – 543
+    New Zealand – 204
+    Niger – 7,194
+    Nigeria – 43,008
+    Oman – 6,338
+    Pakistan – 81,132
+    Palestine – 2,988
+    Palestinians in Lebanon – 679
+    Qatar – 1,087
+    Russia – 11,318
+    Senegal – 5,822
+    Singapore – 407
+    Somalia – 5,206
+    South Africa – 1,132
+    South Sudan – 616
+    Spain – 970
+    Sri Lanka – 1,585
+    Sudan – 14,487
+    Sweden – 1,182
+    Syria – 10,186
+    Tanzania – 11,476
+    Tunisia – 4,972
+    Turkey – 37,770
+    Uzbekistan – 10,865
+    Uganda – 4,871
+    United Arab Emirates – 2,820
+    United Kingdom – 12,348
+    United States of America – 9,504
+    Venezuela – 91
+    West Africa – 306
+    Yemen – 10,981
